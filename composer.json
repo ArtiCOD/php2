@@ -1,0 +1,17 @@
+{
+    "name": "geekbrains/localhost",
+    "autoload": {
+        "psr-4": {
+            "Geekbrains\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArtiCOD",
+            "email": "bulgakov97@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21"
+    }
+}
